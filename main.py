@@ -61,3 +61,7 @@ env=uav_flpo(drones,4,blocks=blocks,
              ugv_factor=ugv_factor,fcr=fcr,distance=distance)
 env.train(beta_init=beta_init,beta_f=beta_f,alpha=alpha,
           purturb=purturb,method='powell',verbos=1)
+env.print_routs()
+env.plot_routs(show_info=1,show_nums=0,save=1,show_ugv=0)
+print('total cost: ',env.return_total_cost())
+print('If all drones went directly to destintaion the cost would be: ',env.return_direct_cost())
