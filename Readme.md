@@ -15,7 +15,7 @@ To utilize the code provided in this repository, please follow the instructions 
 
 1. Clone the repository to your local machine.
 2. Ensure that you have all the necessary dependencies installed. A list of required libraries and tools can be found in the `requirements.txt` file.
-3. Review the `example_usage.py` script for an introductory example of how to apply the algorithms to a sample dataset.
+3. Review the `main.py` script for an introductory example of how to apply the algorithms to a sample dataset.
 
 ## How to Cite
 If you utilize this code or the associated strategies in your research, please cite our work as follows:
@@ -33,3 +33,12 @@ If you utilize this code or the associated strategies in your research, please c
   year={2024}
   
 }
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+- This work was supported in part by National Aeronautics and Space Administration under Grant (NASA). We also thank our collaborators and reviewers for their invaluable insights and feedback.
+
+## Contact
+For any queries regarding the code or research, please reach out to us via [sbasiri2@illinois.edu].
