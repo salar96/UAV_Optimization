@@ -1,5 +1,35 @@
-** Simultaneous charging stations' location and UAV path planning **
+# Optimizing UAV Network Efficiency: Integrative Strategies for Simultaneous Energy Management and Obstacle-Aware Routing
 
-UAVs are increasingly used for diverse delivery services, including disaster relief, medical supplies, and online orders. With the potential for autonomous drones operating in civil airspaces for such services, efficient placement of recharging stations becomes crucial for enabling multi-hop operations within limited range. Thus facility location of recharging stations and path optimization (FLPO) of the drones through these stations to their specific destination coordinates becomes a crucial problem.
-This work is an application of a stagewise framework for facility location and path optimization framework based on the MEP to place recharging stations for a fleet of drones moving within an operational area.
+This repository contains the source code and supplementary materials for the paper titled "Optimizing UAV Network Efficiency: Integrative Strategies for Simultaneous Energy Management and Obstacle-Aware Routing," presented at the AIAA conference. The paper is accessible via the following link: [AIAA Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2024-1166).
 
+## Abstract
+Unmanned Aerial Vehicles (UAVs) are increasingly deployed for a variety of delivery services, encompassing disaster relief efforts, medical supply distribution, and fulfilling online orders. The advent of autonomous drones operating in civil airspaces highlights the importance of efficient management strategies for these services. Central to the operational efficiency of UAVs is the strategic placement of recharging stations and the optimization of flight paths through these stations to designated destinations. This research introduces a comprehensive stagewise framework that employs the Maximum Entropy Principle (MEP) for the Facility Location and Path Optimization (FLPO) of drones. Our methodology addresses the critical challenge of ensuring continuous operations within the operational constraints of UAVs, thereby facilitating multi-hop missions across extensive areas.
+
+## Key Features
+- **Facility Location Optimization:** Algorithmic strategies for the efficient placement of UAV recharging stations.
+- **Path Optimization:** Advanced routing algorithms that consider energy constraints and obstacle avoidance for optimal path planning.
+- **Stagewise Framework:** A novel application of the MEP in the context of UAV network operations, enhancing both the efficiency and reliability of drone missions.
+
+## Getting Started
+To utilize the code provided in this repository, please follow the instructions below:
+
+1. Clone the repository to your local machine.
+2. Ensure that you have all the necessary dependencies installed. A list of required libraries and tools can be found in the `requirements.txt` file.
+3. Review the `example_usage.py` script for an introductory example of how to apply the algorithms to a sample dataset.
+
+## How to Cite
+If you utilize this code or the associated strategies in your research, please cite our work as follows:
+
+@inproceedings{basiri2024optimizing,
+
+  title={Optimizing UAV Network Efficiency: Integrative Strategies for Simultaneous Energy Management and Obstacle-Aware Routing},
+  
+  author={Basiri, Salar and Tiwari, Dhananjay and Papachristos, Christos and Salapaka, Srinivasa},
+  
+  booktitle={AIAA SCITECH 2024 Forum},
+  
+  pages={1166},
+  
+  year={2024}
+  
+}
