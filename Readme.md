@@ -38,7 +38,7 @@ If you utilize this code or the associated strategies in your research, please c
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
-- This work was supported in part by National Aeronautics and Space Administration under Grant (NASA). We also thank our collaborators and reviewers for their invaluable insights and feedback.
+- This work was supported in part by National Aeronautics and Space Administration (NASA). We also thank our collaborators and reviewers for their invaluable insights and feedback.
 
 ## Contact
 For any queries regarding the code or research, please reach out to us via [sbasiri2@illinois.edu].
