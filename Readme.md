@@ -5,7 +5,9 @@ This repository contains the source code and supplementary materials for the pap
 ## Abstract
 Unmanned Aerial Vehicles (UAVs) are increasingly deployed for a variety of delivery services, encompassing disaster relief efforts, medical supply distribution, and fulfilling online orders. The advent of autonomous drones operating in civil airspaces highlights the importance of efficient management strategies for these services. Central to the operational efficiency of UAVs is the strategic placement of recharging stations and the optimization of flight paths through these stations to designated destinations. This research introduces a comprehensive stagewise framework that employs the Maximum Entropy Principle (MEP) for the Facility Location and Path Optimization (FLPO) of drones. Our methodology addresses the critical challenge of ensuring continuous operations within the operational constraints of UAVs, thereby facilitating multi-hop missions across extensive areas.
 
-![Beta Animation](Annealing gif.gif)
+![image](https://github.com/salar96/UAV_Optimization/assets/50495107/69a5221c-dd78-4bc0-8def-1fa1988a124d)
+
+![Annealing gif](https://github.com/salar96/UAV_Optimization/assets/50495107/258c5172-3220-48d3-adb6-6d547fdb4dc3)
 
 ## Key Features
 - **Facility Location Optimization:** Algorithmic strategies for the efficient placement of UAV recharging stations.
